@@ -2,7 +2,15 @@
 
 **`Desarrollador Web`**
 
-Me llamo Luandus Willian Rodrigues Da Silva y acabo de finalizar mis estudios en Desarrollo de Aplicaciones Web, contando además con formación en informática y experiencia en soporte técnico y desarrollo web.
+Me llamo Luandus Willian Rodrigues Da Silva y acabo de finalizar mis estudios como Técnico Superior en Desarrollo de Aplicaciones Web, contando además con formación en informática y experiencia en soporte técnico y desarrollo web.
+
+Lenguajes: conocimientos en Java, HTML, CSS, JavaScript, PHP y SQL.
+
+Administración de bases de datos: experiencia trabajando con MySQL, MariaDB y PostgreSQL.
+
+Integración y consumo de APIs y servicios web.
+
+Uso React y Python (Django) a diario durante mis prácticas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/luanduswillian/">
