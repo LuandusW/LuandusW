@@ -123,13 +123,13 @@ Me llamo Luandus Willian Rodrigues Da Silva y acabo de finalizar mis estudios en
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=LuandusW&show_icons=true&theme=radical&locale=es" 
+    src="https://github-readme-stats.vercel.app/api?username=LuandusW&show_icons=true&theme=radical&locale=en&count_private=true&hide=contribs" 
 />
 
 <img 
     align="left" 
-    alt="GitHub Top Languages" 
+    alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuandusW&theme=radical&layout=compact&custom_title=Tecnologías&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuandusW&theme=radical&layout=compact&langs_count=9" 
 />
 </p>
