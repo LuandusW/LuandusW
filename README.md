@@ -2,15 +2,26 @@
 
 **`Desarrollador Web`**
 
-Me llamo Luandus Willian Rodrigues Da Silva y acabo de finalizar mis estudios como Técnico Superior en Desarrollo de Aplicaciones Web, contando además con formación en informática y experiencia en soporte técnico y desarrollo web.
+---
 
-Lenguajes: conocimientos en Java, HTML, CSS, JavaScript, PHP y SQL.
+## 🏷️ Tags
 
-Administración de bases de datos: experiencia trabajando con MySQL, MariaDB y PostgreSQL.
+<p align="left">
+  <img src="https://img.shields.io/badge/Desarrollador-Web-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+</p>
 
-Integración y consumo de APIs y servicios web.
+---
 
-Uso React y Python (Django) a diario durante mis prácticas.
+## 🚀 Sobre mí
+
+Me llamo Luandus Willian Rodrigues Da Silva, desarrollador web formado como Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
+
+Tengo experiencia en desarrollo web frontend y backend, con conocimientos en programación, bases de datos y consumo de APIs.
+
+Me enfoco en construir aplicaciones funcionales, bien estructuradas y con buenas prácticas de desarrollo.
+
+He participado en el desarrollo de varios proyectos privados durante mi formación y prácticas, aplicando tecnologías como React, Django y bases de datos relacionales.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/luanduswillian/">
@@ -24,120 +35,82 @@ Uso React y Python (Django) a diario durante mis prácticas.
 
 ---
 
-### 🤖 Lenguajes y Tecnologías
+## 🧠 Conocimientos
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+- Desarrollo web frontend y backend básico  
+- Programación orientada a objetos con Java  
+- Diseño y gestión de bases de datos relacionales  
+- Consumo e integración de APIs REST  
+- Desarrollo de interfaces con React  
+- Uso de frameworks como Django y Flask  
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+---
 
+## 💻 Lenguajes
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+</p>
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
+## 🗄️ Bases de datos
 
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" title="MariaDB"/>
+</p>
 
-<br/>
-<br/>
+---
 
-### 📊 Estadísticas
+## 🔧 Herramientas
 
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=LuandusW&show_icons=true&theme=radical&locale=en&count_private=true&hide=contribs" 
-/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-<img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuandusW&theme=radical&layout=compact&langs_count=9" 
-/>
+---
+
+## 📌 Proyecto Destacado
+
+### 🎓 TFG – VayVen (DAW2)
+
+Proyecto final de ciclo formativo desarrollado como aplicación web.
+
+🔗 Repositorio: **TFG_VayVen_DAW2**
+
+### 🧩 Descripción
+Aplicación web tipo e-commerce desarrollada como sistema completo, incluyendo frontend, backend y base de datos.
+
+El sistema simula un entorno real de compra y venta con gestión de usuarios, catálogo de productos y flujo de pedidos.
+
+Se integra pasarela de pagos con PayPal y simulación del proceso de envío mediante DHL, replicando un flujo de compra real.
+
+### ⚙️ Tecnologías
+HTML • CSS • Flask • MySQL • JavaScript • APIs REST • 
+
+### ✨ Funcionalidades
+- Sistema de autenticación  
+- CRUD de datos  
+- Consumo de APIs  
+- Interfaz dinámica  
+- Gestión de base de datos  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuandusW&show_icons=true&theme=radical&count_private=true&hide=contribs"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuandusW&layout=compact&theme=radical"/>
+
 </p>
