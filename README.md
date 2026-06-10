@@ -75,28 +75,20 @@ He participado en el desarrollo de varios proyectos privados durante mi formaci�
 ## 📌 Proyecto Destacado
 
 ### 🎓 TFG – VayVen (DAW2)
-
 Proyecto final de ciclo formativo desarrollado como aplicación web.
-
-🔗 Repositorio: **TFG_VayVen_DAW2**
-
 ### 🧩 Descripción
 Aplicación web tipo e-commerce desarrollada como sistema completo, incluyendo frontend, backend y base de datos.
-
 El sistema simula un entorno real de compra y venta con gestión de usuarios, catálogo de productos y flujo de pedidos.
-
 Se integra pasarela de pagos con PayPal y simulación del proceso de envío mediante DHL, replicando un flujo de compra real.
-
 ### ⚙️ Tecnologías
 HTML • CSS • Flask • MySQL • JavaScript • APIs REST • 
-
 ### ✨ Funcionalidades
 - Sistema de autenticación  
 - CRUD de datos  
 - Consumo de APIs  
 - Interfaz dinámica  
-- Gestión de base de datos  
-
+- Gestión de base de datos
+  
 ---
 
 ## 📊 GitHub Stats
