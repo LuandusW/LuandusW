@@ -31,7 +31,7 @@ He participado en el desarrollo de varios proyectos privados durante mi formaci�
 
 ## 🧠 Conocimientos
 
-- Desarrollo web frontend y backen  
+- Desarrollo web frontend y backend  
 - Programación orientada a objetos con Java y PHP 
 - Diseño y gestión de bases de datos relacionales  
 - Consumo e integración de APIs REST  
