@@ -23,7 +23,7 @@ Tengo experiencia en desarrollo web frontend y backend, con conocimientos en pro
 
 Me enfoco en construir aplicaciones funcionales, bien estructuradas y con buenas prácticas de desarrollo.
 
-He participado en el desarrollo de varios proyectos privados durante mi formación y prácticas, aplicando tecnologías como React, Django y bases de datos relacionales.
+He participado en el desarrollo de varios proyectos privados durante mi formación y prácticas, aplicando tecnologías como React, Django, Flask y bases de datos relacionales.
 
 
 
@@ -31,8 +31,8 @@ He participado en el desarrollo de varios proyectos privados durante mi formaci�
 
 ## 🧠 Conocimientos
 
-- Desarrollo web frontend y backend básico  
-- Programación orientada a objetos con Java  
+- Desarrollo web frontend y backen  
+- Programación orientada a objetos con Java y PHP 
 - Diseño y gestión de bases de datos relacionales  
 - Consumo e integración de APIs REST  
 - Desarrollo de interfaces con React  
