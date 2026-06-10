@@ -18,14 +18,9 @@
 ## 🚀 Sobre mí
 
 Me llamo Luandus Willian Rodrigues Da Silva, desarrollador web formado como Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
-
 Tengo experiencia en desarrollo web frontend y backend, con conocimientos en programación, bases de datos y consumo de APIs.
-
 Me enfoco en construir aplicaciones funcionales, bien estructuradas y con buenas prácticas de desarrollo.
-
 He participado en el desarrollo de varios proyectos privados durante mi formación y prácticas, aplicando tecnologías como React, Django, Flask y bases de datos relacionales.
-
-
 
 ---
 
