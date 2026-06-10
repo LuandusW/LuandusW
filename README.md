@@ -4,15 +4,6 @@
 
 ---
 
-## 🏷️ Tags
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Desarrollador-Web-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-</p>
-
----
-
 ## 🚀 Sobre mí
 
 Me llamo Luandus Willian Rodrigues Da Silva, desarrollador web formado como Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
@@ -31,6 +22,11 @@ He participado en el desarrollo de varios proyectos privados durante mi formaci�
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Luandus%20Willian-blue?logo=linkedin&logoColor=white&style=for-the-badge"
         />
     </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Desarrollador-Web-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
 </p>
 
 ---
