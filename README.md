@@ -81,7 +81,7 @@ Aplicación web tipo e-commerce desarrollada como sistema completo, incluyendo f
 El sistema simula un entorno real de compra y venta con gestión de usuarios, catálogo de productos y flujo de pedidos.
 Se integra pasarela de pagos con PayPal y simulación del proceso de envío mediante DHL, replicando un flujo de compra real.
 ### ⚙️ Tecnologías
-HTML • CSS • Flask • MySQL • JavaScript • APIs REST • 
+HTML • CSS • Flask • PostgreSQL • JavaScript • APIs REST • 
 ### ✨ Funcionalidades
 - Sistema de autenticación  
 - CRUD de datos  
