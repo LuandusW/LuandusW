@@ -1,6 +1,17 @@
 # 👩🏻‍💻 Luandus Willian
 
-**`Desarrollador Web`**
+<p align="left">
+  <img src="https://img.shields.io/badge/Desarrollador-Web-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+        <a href="https://www.linkedin.com/in/luanduswillian/">
+        <img 
+            alt="LinkedIn" 
+            title="Conéctate conmigo en LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Luandus%20Willian-blue?logo=linkedin&logoColor=white&style=for-the-badge"
+        />
+    </a>
+</p>
+
 
 ---
 
@@ -14,20 +25,7 @@ Me enfoco en construir aplicaciones funcionales, bien estructuradas y con buenas
 
 He participado en el desarrollo de varios proyectos privados durante mi formación y prácticas, aplicando tecnologías como React, Django y bases de datos relacionales.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/luanduswillian/">
-        <img 
-            alt="LinkedIn" 
-            title="Conéctate conmigo en LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Luandus%20Willian-blue?logo=linkedin&logoColor=white&style=for-the-badge"
-        />
-    </a>
-</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Desarrollador-Web-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-</p>
 
 ---
 
