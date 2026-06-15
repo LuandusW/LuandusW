@@ -41,7 +41,6 @@ He participado en el desarrollo de varios proyectos privados durante mi formaci�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
 </p>
@@ -65,25 +64,6 @@ He participado en el desarrollo de varios proyectos privados durante mi formaci�
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
-
-## 📌 Proyecto Destacado
-
-### 🎓 TFG – VayVen (DAW2)
-Proyecto final de ciclo formativo desarrollado como aplicación web.
-### 🧩 Descripción
-Aplicación web tipo e-commerce desarrollada como sistema completo, incluyendo frontend, backend y base de datos.
-El sistema simula un entorno real de compra y venta con gestión de usuarios, catálogo de productos y flujo de pedidos.
-Se integra pasarela de pagos con PayPal y simulación del proceso de envío mediante DHL, replicando un flujo de compra real.
-### ⚙️ Tecnologías
-HTML • CSS • Flask • PostgreSQL • JavaScript • APIs REST • 
-### ✨ Funcionalidades
-- Sistema de autenticación  
-- CRUD de datos  
-- Consumo de APIs  
-- Interfaz dinámica  
-- Gestión de base de datos
-  
 ---
 
 ## 📊 GitHub Stats
